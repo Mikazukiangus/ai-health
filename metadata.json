@@ -1,0 +1,6 @@
+{
+  "name": "TriagePulse AI - ED Command Center",
+  "description": "High-acuity emergency department command center and AI-powered priority triage platform with real-time telemetry, SHAP explainability, and surge forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
